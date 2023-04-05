@@ -1,3 +1,5 @@
+import React from "react";
+
 import './ExpensesDate.css';
 
 function ExpenseDate(props) {
